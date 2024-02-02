@@ -7,7 +7,6 @@ This project is a simple web-based implementation of the classic Pig Game, where
 - [How to Play](#how-to-play)
 - [Code Overview](#code-overview)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Project Structure
 The project consists of three main files:
@@ -39,6 +38,3 @@ The JavaScript file (`script.js`) handles the game logic. Key functionalities in
 
 ## Contributing
 If you'd like to contribute to the project, feel free to fork the repository, make changes, and submit a pull request. Issues and feature requests are also welcome.
-
-## License
-This Pig Game project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code for your own projects.
