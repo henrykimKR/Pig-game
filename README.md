@@ -42,8 +42,5 @@ The project structure consists of three main files:
 ### 7. **Variables & Arrays**
    - Declaring variables (`let`, `const`) for scores, current score, active player, and arrays to store scores.
 
-### 8. **Embracing Emoticons!**
-   - Injecting a touch of fun with emoji emoticons in buttons and headers. 🎉
-
 ## 🤝 Contributing
 Feel free to contribute! Fork the repository, make changes, and submit a pull request. Issues and feature requests are also welcome.
